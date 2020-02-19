@@ -5,6 +5,6 @@
 ## Implementation plan
 - [x] Create a directory called "Dataset." Pull various repos into dataset and scan for Python files 
 - [x] Write code to concatenate files into one string and encode string as integer values
-- [] Interpret endcoded string in matrix form
-- [] Determine best target (Ex: next letter in block of characters)
-- [] Build an Recurrent Neural Network to train to predict target
+- [ ] Interpret endcoded string in matrix form
+- [ ] Determine best target (Ex: next letter in block of characters)
+- [ ] Build an Recurrent Neural Network to train to predict target
