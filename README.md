@@ -8,3 +8,5 @@
 - [ ] Interpret endcoded string in matrix form
 - [ ] Determine best target (Ex: next letter in block of characters)
 - [ ] Build an Recurrent Neural Network to train to predict target
+
+Dataset from: https://github.com/TheAlgorithms/Python
