@@ -8,7 +8,7 @@
 - [x] Interpret endcoded string in matrix form
 - [x] Determine best target (Ex: next letter in block of characters)
 - [ ] Build an Recurrent Neural Network to train to predict target
-- - [ ] One Hot encode data  
+- - [x] One Hot encode data  
 - - [ ] Utilize lstm with keras while surpassing memory constraints. Currently 16GB
 
 Dataset from: https://github.com/TheAlgorithms/Python
