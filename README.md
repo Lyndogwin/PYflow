@@ -9,6 +9,7 @@
 - [x] Determine best target (Ex: next letter in block of characters)
 - [ ] Build an Recurrent Neural Network to train to predict target
 - - [x] One Hot encode data  
-- - [ ] Utilize lstm with keras while surpassing memory constraints. Currently 16GB
+- - [x] Utilize lstm with keras while surpassing memory constraints. Currently 16GB
+- - [ ] Try different parameters for LSTM model to get the best output
 
 Dataset from: https://github.com/TheAlgorithms/Python
