@@ -10,6 +10,6 @@
 - [ ] Build an Recurrent Neural Network to train to predict target
 - - [x] One Hot encode data  
 - - [x] Utilize lstm with keras while surpassing memory constraints. Currently 16GB
-- - [ ] Try different parameters for LSTM model to get the best output
+- - [x] Try different parameters for LSTM model to get the best output
 
 Dataset from: https://github.com/TheAlgorithms/Python
